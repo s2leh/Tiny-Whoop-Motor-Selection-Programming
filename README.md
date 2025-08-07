@@ -22,7 +22,6 @@
 
 3. **Bind**: Hold FC bind button + power on.  
 
-## Motor Diagram
 ##  Selected Motor
 **Model**: Happymodel EX0802 19,000KV (1S)  
 **Why**:  
