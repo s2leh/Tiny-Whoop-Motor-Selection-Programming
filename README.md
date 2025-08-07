@@ -4,8 +4,9 @@
 
 ## Components
 - **Frame**: BetaFPV Meteor65 Air  
-- **FC**: BetaFPV F4 1S 5-in-1 (ELRS)  
-- **Motors**: EX0802 19,000KV  
+- **FC**: BetaFPV F4 1S 5-in-1 (ELRS)
+- **Motors**: Brushless motor
+- **Motors name**: EX0802 19,000KV  
 - **Props**: Gemfan 1610 40mm (1.0mm)  
 - **Battery**: BT2.0 1S 450mAh  
 
@@ -23,7 +24,6 @@
 
 ## Motor Diagram
 ##  Selected Motor
-**Motor**: Brushless motor
 **Model**: Happymodel EX0802 19,000KV (1S)  
 **Why**:  
 - Ultra-lightweight (1.8g)  
